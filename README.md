@@ -128,6 +128,48 @@ Matplotlib: Flexible plotting library for creating static, animated, and interac
 
 
 Seaborn: Built on Matplotlib, provides a high-level interface for drawing attractive and informative statistical graphics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 These examples demonstrate how to customize plots, add labels, legends, and other annotations to enhance clarity and understanding of data patterns.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Explore the scripts and documentation to incorporate these plotting capabilities into your data analysis workflows.
